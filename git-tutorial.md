@@ -120,6 +120,8 @@ After that, `git push` on its own is enough for that branch.
 
 **Repeat steps 3 through 7 often.** Small, frequent commits mean you always have a recent save point to go back to.
 
+![Status, Add, Commit, and Push](./images/status_add_commit_push.png)
+
 ### 8. Open a Pull Request (PR)
 
 When your work is ready for review, go to your repo on GitHub and open a Pull Request to merge your branch into `main`.
