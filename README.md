@@ -8,6 +8,7 @@ This repo is a companion to the [Intro to Version Control](https://docs.google.c
 - **[git-tutorial.md](git-tutorial.md)** -- A beginner's guide to git and GitHub covering setup, the branch/commit/push workflow, merge conflict resolution, common mistakes, and installing git on Windows.
 - **[pull-requests-and-code-review.md](pull-requests-and-code-review.md)** -- How to create pull requests on GitHub, what makes a good PR, how to review code, and how to give and receive feedback constructively.
 - **[practice.md](practice.md)** -- A file with simple editable statements (favorite color, food, etc.) for practicing merge conflicts. Have two people change the same lines on separate branches, then merge to see what happens.
+- **[claude-git-safety.md](claude-git-safety.md)** -- A portable git safety guide for Claude Code. It defines a safe feature branch workflow (fetch, branch, stage by name, push, PR) and a list of destructive operations to avoid. Copy this file into any repo and reference it from that repo's CLAUDE.md to give Claude the same guardrails everywhere.
 
 ## Getting Started
 
