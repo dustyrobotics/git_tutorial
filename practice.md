@@ -10,7 +10,7 @@ My favorite color is yellow.
 
 My favorite food is fried chicken.
 
-My favorite animal is a cat.
+My favorite animal is a capybara.
 
 My favorite season is summer.
 
