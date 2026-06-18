@@ -6,11 +6,11 @@ Have two people edit the same lines on separate branches, then try merging both 
 
 ## About Me
 
-My favorite color is red.
+My favorite color is yellow.
 
-My favorite food is pizza.
+My favorite food is fried chicken.
 
-My favorite animal is a dog.
+My favorite animal is a cat.
 
 My favorite season is summer.
 
