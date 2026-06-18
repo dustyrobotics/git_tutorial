@@ -6,7 +6,7 @@ Have two people edit the same lines on separate branches, then try merging both 
 
 ## About Me
 
-My favorite color is green.
+My favorite color is yellow.
 
 My favorite food is fried chicken.
 
