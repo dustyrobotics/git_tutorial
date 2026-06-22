@@ -32,8 +32,3 @@ The primary language is Python.
 
 The test framework is pytest.
 
-## Animals
-
-- Leopard
-- Panther
-- Rhino
