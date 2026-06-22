@@ -10,7 +10,7 @@ My favorite color is yellow.
 
 My favorite food is fried chicken.
 
-My favorite animal is a capybara.
+My favorite animals are capybara, leopard, panther, and rhino.
 
 My favorite season is summer.
 
@@ -31,3 +31,9 @@ The project deadline is next Friday.
 The primary language is Python.
 
 The test framework is pytest.
+
+## Animals
+
+- Leopard
+- Panther
+- Rhino
