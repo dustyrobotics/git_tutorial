@@ -237,6 +237,19 @@ If you have pushed, don't rewrite history. Instead, make a new commit that rever
 git revert HEAD
 ```
 
+### "I need to switch branches but I have unfinished changes"
+
+Git won't let you switch if your changes would be overwritten. Shelve them, switch, then bring them back later:
+
+```
+git stash                         # shelve your uncommitted changes
+git checkout other-branch         # go do the other thing
+git checkout your-branch          # come back
+git stash pop                     # restore your changes
+```
+
+Your stashed changes are safe, but they aren't on GitHub. Don't leave work stashed for days -- commit it to a branch instead.
+
 ### "I want to see what a file looked like before"
 
 ```
