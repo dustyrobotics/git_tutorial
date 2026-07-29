@@ -16,6 +16,8 @@ My favorite season is summer.
 
 My favorite movie is Jurassic Park.
 
+My favorite hobby is rock climbing.
+
 ## Our Team
 
 The team mascot is a penguin.
